@@ -18,8 +18,8 @@ Guttmann](http://gttmnn.com/), a fantastic artist and person, that I was lucky t
 stint at [Wildbit](http://wildbit.com).
 
 With that vision I went to work, choosing MonoTouch as my development platform mostly due to my lightning speed in
-C# and the compressed time I would be able to work on this project (which was in twenty minute doses to my other,
-far more important side project of raising a new child). Since MonoTouch is not free, that might be a sticking point
+C# and the compressed time I would be able to work on this project (which was in twenty minute doses due to my other,
+far more important side project of raising a child). Since MonoTouch is not free, that might be a sticking point
 for this particular offering, but I can tell you that even if you're an Objective-C developer on the main, MonoTouch
 is a fantastic framework and beyond a few small details, you can translate Objective-C to C# line by line, as it is
 not a simulator or translation layer between you and Cocoa, it's pure interop against native iOS APIs.

@@ -1,4 +1,4 @@
-![FWD Logo](https://github.com/danielcrenna/artapp/raw/master/screenshot.png) 
+![screenshot](https://github.com/danielcrenna/artapp/raw/master/screenshot.jpg) 
 
 artapp
 ======

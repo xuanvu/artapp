@@ -54,7 +54,7 @@ both, that could be salvaged from the remains, such as:
 * It's an example of a real, professionally developed iOS application using MonoTouch, that made it to the App Store.
 * It's a beautiful app that can be repurposed for other artists, and galleries, by their programmer friends, for free.
 * It's designed to be very simple to switch out content, just add images, a new JSON manifest, and you're good to go.
-* Some of the technical challenges (like transparent nav bars) are tricky to solve in MonoTouch; this is a great cheat sheet
+* Some of the technical challenges (like transparent nav bars) are tricky to solve in MonoTouch; this is a great cheat sheet.
 
 Future
 ======
